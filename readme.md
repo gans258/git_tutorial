@@ -9,3 +9,10 @@
 
 # This is the update from Koteshwara branch
     Koteshwara is the place where our branch advocate is coming from
+
+# This is the update from Manipal branch
+    Manipal is my place of residence for medical reasons.
+
+# Second update in mainpal branch
+    here in manipal we get kerala parottas.
+
