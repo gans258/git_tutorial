@@ -1,14 +1,5 @@
 # Git Course
     This is a complete git course
 
-# This is the update from kunda branch
-    Kundapura is my second place of posting and first as Branch Head.
-# This is the second upate from kunda branch
-    In Kundapura finding MSME customers are difficult
-
-# This is the update from Manipal branch
-    Manipal is my place of residence for medical reasons.
-
-# Second update in mainpal branch
-    here in manipal we get kerala parottas.
-
+# This is the change from yadgi branch
+    Yadgir branch is my first place of posting at Bank of Maharashtra.
